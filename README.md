@@ -4,7 +4,8 @@ Este repositório contém os códigos desenvolvidos durante as aulas de **Progra
 
 ## 🧾 Sobre o curso
 
-- 📚 **Instituição**: SENAI
+- 📚 **Instituição**: SENAI  Suiço-Brasileiro ![SwitzerlandFlagGIF](https://github.com/user-attachments/assets/b7667f5a-f811-4896-a1a4-f475f010084c)
+
 - 👩‍🏫 **Professora**: Fiamma
 - 🧑‍🎓 **Aluno**: Gabriel dos Santos Vereda
 - 🗓️ **Semestre**: 2º semestre
