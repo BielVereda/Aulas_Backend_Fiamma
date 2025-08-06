@@ -38,9 +38,3 @@ Os arquivos estão organizados por tema ou aula, conforme o conteúdo abordado e
 ## 🤝 Contribuições
 
 Este repositório é pessoal e voltado para fins educacionais, mas sugestões ou melhorias são sempre bem-vindas!
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença [MIT](LICENSE) – fique à vontade para utilizar como base nos seus estudos também!
