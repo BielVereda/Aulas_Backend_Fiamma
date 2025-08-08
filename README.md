@@ -10,13 +10,6 @@ Este repositório contém os códigos desenvolvidos durante as aulas de **Progra
 - 🗓️ **Semestre**: 2º semestre
 - 🖥️ **Disciplina**: Programação Backend (Java)
 
-## 📁 Organização do repositório
-
-Os arquivos estão organizados por tema ou aula, conforme o conteúdo abordado em sala. Alguns exemplos:
-
-
-> Sempre que possível, cada pasta conterá um arquivo `README.md` explicando o conteúdo ou objetivo do exercício.
-
 ## 🛠️ Tecnologias utilizadas
 
 - Java (JDK 17+);
